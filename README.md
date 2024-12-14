@@ -1,2 +1,2 @@
 # Projetos IA Generativa
- Proejtos do Curso IA Generativa
+ Projetos do Curso IA Generativa
